@@ -1,4 +1,10 @@
 {
+  "fund_flows.1M": "rates_time_series",
+  "fund_flows.3M": "rates_time_series",
+  "fund_flows.1Y": "rates_time_series",
+  "fund_flows.3Y": "rates_time_series",
+  "fund_flows.5Y": "rates_time_series",
+  "fund_flows.YTD": "rates_time_series",
   "accounts_payable_fq": "rates_fq",
   "accounts_payable_fy": "rates_fy",
   "accounts_receivables_net_fq": "rates_fq",
